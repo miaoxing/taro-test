@@ -11,8 +11,8 @@
     "preset": "jest-preset-miaoxing"
   },
   "dependencies": {
-    "@tarojs/router": "^3.3.17",
-    "@tarojs/runtime": "^3.3.17",
+    "@tarojs/router": "~3.3.17",
+    "@tarojs/runtime": "~3.3.17",
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
