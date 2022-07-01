@@ -1,3 +1,18 @@
+# [1.0.0](https://github.com/miaoxing/taro-test/compare/v0.1.3...v1.0.0) (2022-07-01)
+
+
+### Features
+
+* 发布 1.0.0 [release 1.0.0] ([9810ce4](https://github.com/miaoxing/taro-test/commit/9810ce47864a97c085b9979d05b45e01745e5e25))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+
 ## [0.1.3](https://github.com/miaoxing/taro-test/compare/v0.1.2...v0.1.3) (2022-06-01)
 
 
