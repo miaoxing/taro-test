@@ -1,6 +1,6 @@
 {
   "name": "taro-test",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -16,7 +16,7 @@
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^8.2.4"
+    "@miaoxing/dev": "^9.0.0"
   },
   "peerDependencies": {
     "react": ">=16.13.1",
