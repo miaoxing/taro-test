@@ -1,3 +1,13 @@
+## [1.0.12](https://github.com/miaoxing/taro-test/compare/v1.0.11...v1.0.12) (2024-09-01)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.1.3` to `9.2.0`
+
 ## [1.0.11](https://github.com/miaoxing/taro-test/compare/v1.0.10...v1.0.11) (2024-08-03)
 
 
